@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+.box{
+    padding: 30px 65px;
+}
+
+.box-part{
+    background-color: aqua;
+    text-align: center;
+    padding: 40px 20px;
+    margin-top: 20px 20px 20px 20px;
+}
+
+.fa{
+    color: blue;
+}
